@@ -1,5 +1,7 @@
 # get things done
-some to-do list app :)
+some basic to-do list app :)
+
+will develop and improve this next time!
 
 <img src="https://github.com/kittenspow/get-things-done/blob/edfc6e6b7ff1da2b7a937084cbdfd435072e947b/picture" alt="image alt" width="500">  
 
