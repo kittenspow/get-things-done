@@ -19,4 +19,5 @@ npm start
 
 ## Usage
 Open your browser and navigate to http://localhost:3000.
-You can input your task list, edit, and delete.
+
+You can input your task list, edit, and delete the task.
